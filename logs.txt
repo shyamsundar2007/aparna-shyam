@@ -1,0 +1,81 @@
+Name: Kalyani;
+Email: kalven10@gmail.com;
+Number:6;
+Notes:Need a spl room for our stay;
+Sangeet: YES;
+Engagement: YES;
+Wedding: YES;
+Reception: YES;
+
+Name: VENKAT;
+Email: venkat.1711@gmail.com;
+Number:10;
+Notes:WE ARE COMING !;
+Sangeet: YES;
+Engagement: YES;
+Wedding: YES;
+Reception: YES;
+
+Name: Vishnu;
+Email: vishna8691@gmail.com;
+Number:1;
+Notes:SVV coming;
+Sangeet: YES;
+Engagement: YES;
+Wedding: YES;
+Reception: YES;
+
+Name: Vinod Ramanarayanan;
+Email: donivraj@gmail.com;
+Number:1;
+Notes:;
+Sangeet: YES;
+Engagement: NO;
+Wedding: YES;
+Reception: YES;
+
+Name: ;
+Email: ;
+;
+Notes:;
+Sangeet: ;
+Engagement: ;
+Wedding: ;
+Reception: ;
+
+Name: Joni Ong's parents;
+Email: makhota9@yahoo.co.uk;
+Number:2;
+Notes:Congratulations Aparna and Shyam. Will discuss and confirm with our children . Am happy for both of you.;
+Sangeet: YES;
+Engagement: YES;
+Wedding: YES;
+Reception: YES;
+
+Name: Ramanan;
+Email: ramanan90@gmail.com;
+Number:1;
+Notes:;
+Sangeet: NO;
+Engagement: NO;
+Wedding: YES;
+Reception: YES;
+
+Name: Skender and Simeng;
+Email: skendervolquardsen@web.de;
+Number:2;
+Notes:;
+Sangeet: NO;
+Engagement: YES;
+Wedding: YES;
+Reception: YES;
+
+Name: Akshay V;
+Email: vakshay1989@gmail.com;
+Number:1;
+Notes:;
+Sangeet: NO;
+Engagement: NO;
+Wedding: YES;
+Reception: YES;
+
